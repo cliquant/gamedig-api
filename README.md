@@ -8,3 +8,4 @@
   "example_result": "status: 'success', message: 'online', game: 'minecraft', ipport: 'mc.side.lv:25565', ping: 63, playercount: '34', maxplayercount: '450'"
 }
 ```
+most shittiest code ever - did it like 1 year ago to post something in github :DD
